@@ -1,8 +1,8 @@
 # Core dependencies
-anduril-lattice-sdk>=1.0.0
 pyyaml>=6.0
 click>=8.1.0
 python-dateutil>=2.8.2
+requests>=2.31.0
 
 # Geographic calculations
 geopy>=2.3.0
