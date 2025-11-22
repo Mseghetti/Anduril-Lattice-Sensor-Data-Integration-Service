@@ -57,3 +57,9 @@ Thumbs.db
 *.sqlite
 config/local_*.yaml
 
+# Next.js
+.next/
+out/
+next-env.d.ts
+node_modules/
+
